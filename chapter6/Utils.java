@@ -1,5 +1,8 @@
 package chapter6;
 
+import java.util.Arrays;
+import java.util.Random;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 // https://stepik.org/lesson/578900/step/9
